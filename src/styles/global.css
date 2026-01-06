@@ -48,8 +48,8 @@
 }
 
 /* Language-specific fonts */
-:lang(zh-cn) {
-	--font-serif: var(--font-noto-serif-sc);
+:lang(vi) {
+	--font-serif: var(--font-be-vietnam-pro);
 }
 
 :lang(ja) {

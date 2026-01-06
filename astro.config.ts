@@ -139,6 +139,13 @@ export default defineConfig({
 				display: "block",
 				fallbacks: ["serif"],
 				cssVariable: "--font-playwrite-mx"
+			},
+			{
+				name: "Be Vietnam Pro",
+				provider: fontProviders.fontsource(),
+				weights: [400, 500, 600, 700],
+				fallbacks: ["system-ui", "sans-serif"],
+				cssVariable: "--font-be-vietnam-pro"
 			}
 		]
 	}
