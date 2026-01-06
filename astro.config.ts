@@ -143,7 +143,7 @@ export default defineConfig({
 			{
 				name: "Be Vietnam Pro",
 				provider: fontProviders.fontsource(),
-				weights: [400, 500, 600, 700],
+				weights: [400, 600],
 				fallbacks: ["system-ui", "sans-serif"],
 				cssVariable: "--font-be-vietnam-pro"
 			}
