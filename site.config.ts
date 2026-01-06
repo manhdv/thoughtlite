@@ -4,9 +4,9 @@ const config = siteConfig({
 	title: "ThoughtLite",
 	prologue: "If you need a website\nthat loads fast and has great SEO, then Astro is for you.",
 	author: {
-		name: "Your Name",
+		name: "Mage",
 		email: "hi@your.mail",
-		link: "https://your.website"
+		link: "https://thoughtlite.com"
 	},
 	description: "A modern Astro theme focused on content creation.",
 	copyright: {
@@ -14,8 +14,8 @@ const config = siteConfig({
 		year: "2025"
 	},
 	i18n: {
-		locales: ["en", "zh-cn", "ja"],
-		defaultLocale: "en"
+		locales: ["vi"],
+		defaultLocale: "vi"
 	},
 	feed: {
 		section: "*",

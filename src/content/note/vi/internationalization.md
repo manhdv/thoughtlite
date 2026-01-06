@@ -14,9 +14,9 @@ Modify `i18n.defaultLocale` in `site.config.ts`:
 ```ts
 export default siteConfig({
     i18n: {
-        locales: ["en", "vi"],
+        locales: ["en", "zh-cn", "ja"],
         // Change default language to Simplified Chinese
-        defaultLocale: "vi"
+        defaultLocale: "zh-cn"
     },
 });
 ```

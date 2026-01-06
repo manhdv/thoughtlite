@@ -2,6 +2,9 @@
 import en from "./en/index.yaml";
 import enScript from "./en/script.yaml";
 import enLinkroll from "./en/linkroll.yaml";
+import vi from "./vi/index.yaml";
+import viScript from "./vi/script.yaml";
+import viLinkroll from "./vi/linkroll.yaml";
 import zhCN from "./zh-cn/index.yaml";
 import zhCNScript from "./zh-cn/script.yaml";
 import zhLinkroll from "./zh-cn/linkroll.yaml";
@@ -15,6 +18,11 @@ const translations = {
 		index: en,
 		script: enScript,
 		linkroll: enLinkroll
+	},
+	vi: {
+		index: vi,
+		script: viScript,
+		linkroll: viLinkroll
 	},
 	"zh-cn": {
 		index: zhCN,
