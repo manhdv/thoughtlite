@@ -1,7 +1,13 @@
-**ThoughtLite** is a modern [Astro](https://astro.build/) theme focused on content creation.
+**ThoughtLite** là một góc nhỏ để tôi ghi lại suy nghĩ, ghi chú và những thứ đáng nhớ trong quá trình làm việc và sống.
 
-The theme focuses on core content-related functions, aiming to build an **efficient and transparent** space for creation.
+Nội dung ở đây chủ yếu xoay quanh:
+- công nghệ
+- lập trình
+- ghi chép cá nhân
+- mấy suy nghĩ lặt vặt nhưng không muốn quên
 
-Additionally, the theme supports modern features such as **multilingual switching**, **responsive layout**, and **dynamic content filtering**, providing users with a smooth experience.
+Tôi không cố viết cho đúng trend, cũng không chiều số đông.  
+Thứ gì thấy có giá trị thì ghi lại, để sau này còn đọc lại và khỏi phải nghĩ lại từ đầu.
 
-If you are interested in the theme, please visit the [**GitHub repository**](https://github.com/tuyuritio/astro-theme-thought-lite) for more information and quick start guide.
+Nếu bạn đọc được điều gì hữu ích thì tốt.  
+Nếu không, cũng không sao — blog này tồn tại trước hết là cho tôi.
