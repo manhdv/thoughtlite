@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 		let id: string;
 
 		if (monolocale) {
-			locale = undefined;
+			locale = "en";
 			id = jotting.id;
 		} else {
 			const [language, ...ids] = jotting.id.split("/");

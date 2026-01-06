@@ -34,7 +34,6 @@ import reading from "./src/utils/remark/reading";
 import figure from "./src/utils/remark/figure";
 
 import siteConfig from "./site.config";
-import { ZeoSevenFonts } from "./src/fonts/config";
 
 // https://astro.build/config
 export default defineConfig({
@@ -121,44 +120,25 @@ export default defineConfig({
 		fonts: [
 			{
 				name: "Noto Serif",
-				provider: fontProviders.google(),
+				provider: fontProviders.fontsource(),
 				weights: [400, 700],
 				fallbacks: ["serif"],
 				cssVariable: "--font-noto-serif"
 			},
 			{
 				name: "Noto Serif SC",
-				provider: fontProviders.google(),
+				provider: fontProviders.fontsource(),
 				weights: [400, 700],
 				fallbacks: ["serif"],
 				cssVariable: "--font-noto-serif-sc"
 			},
 			{
-				name: "Noto Serif JP",
-				provider: fontProviders.google(),
-				weights: [400, 700],
-				fallbacks: ["serif"],
-				cssVariable: "--font-noto-serif-jp"
-			},
-			{
 				name: "Playwrite MX",
-				provider: fontProviders.google(),
+				provider: fontProviders.fontsource(),
 				weights: [100],
 				display: "block",
 				fallbacks: ["serif"],
 				cssVariable: "--font-playwrite-mx"
-			},
-			{
-				name: "Maple Mono NF CN",
-				provider: ZeoSevenFonts(),
-				fallbacks: ["monospace"],
-				cssVariable: "--font-maple-mono-nf-cn"
-			},
-			{
-				name: "The Peak Font Plus",
-				provider: ZeoSevenFonts(),
-				fallbacks: ["serif"],
-				cssVariable: "--font-the-peak-font-plus"
 			}
 		]
 	}
