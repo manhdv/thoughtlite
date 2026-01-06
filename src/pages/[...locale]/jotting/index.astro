@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import config, { monolocale } from "$config";
+import config from "$config";
 import Base from "$layouts/Base.astro";
 import Jotting from "$components/Jotting.svelte";
 import i18nit from "$i18n";
@@ -17,9 +17,8 @@ const t = i18nit(locale);
 const jottings = await getCollection("jotting", jotting => {
 	// Filter by publication status and locale
 	let published = !jotting.data.draft;
-	let localed = monolocale || jotting.id.split("/")[0] === locale;
-
-	return published && localed;
+	const jottingLocale = jotting.id.split("/")[0];
+	return published && jottingLocale === locale;
 });
 
 // Standardize note structure
