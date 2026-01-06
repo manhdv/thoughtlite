@@ -18,8 +18,7 @@ top: 1
 
 Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông minh_.
 
----
-
+![Portfolio Performance 2025](Screenshot_20260103_102235.jpg)
 ## 1. Hiệu suất tổng thể
 
 - **Time-weighted return (TWRR): ~26%**  
@@ -34,7 +33,6 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 - **Lợi nhuận tuyệt đối:** ~**40 triệu**  
   Tiền thật. Không phải % trên giấy.
 
----
 
 ## 2. Rủi ro & tâm lý
 
@@ -45,8 +43,6 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
   - Không hoảng loạn đọc tin tức vớ vẩn
 
 => Drawdown mà không làm gì ngu thì **không gọi là rủi ro**, chỉ là _noise_.
-
----
 
 ## 3. Danh mục – thắng thua rõ ràng
 
@@ -64,8 +60,6 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 - **US stocks nhỏ lẻ**  
   Lãi thì có, nhưng **không đáng công theo dõi** so với ETF + big tech.
 
----
-
 ## 4. Những gì KHÔNG làm (và tự hào vì thế)
 
 - Không trading
@@ -77,7 +71,6 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 
 > _Đừng làm gì cũng là một quyết định đầu tư._
 
----
 
 ## 5. Bài học rút ra
 
@@ -86,7 +79,6 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 3. So sánh với index để học, **không phải để tự hành hạ**
 4. Đầu tư dài hạn là bài test… _chịu đựng sự nhàm chán_
 
----
 
 ## 6. Kế hoạch 2026 (ngắn gọn, không mơ mộng)
 
@@ -95,7 +87,6 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 - Không thêm cổ phiếu “cho vui”
 - Tăng tiền nạp đều → _để thời gian làm việc hộ_
 
----
 
 ## Kết
 
