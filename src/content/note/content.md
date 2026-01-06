@@ -5,7 +5,6 @@ series: Astro
 tags: [Content, Demo]
 description: "Comprehensive guide to the theme's three sections: Notes, Jottings, and Information, helping users understand content types and publishing standards."
 toc: true
-top: 1
 ---
 
 The theme's content can be divided into three sections: Notes, Jottings, and Information. Each section carries different content types and publishing purposes, designed to meet diverse expression and reading needs.
