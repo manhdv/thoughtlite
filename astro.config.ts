@@ -138,7 +138,7 @@ export default defineConfig({
 				name: "Playwrite MX",
 				provider: fontProviders.fontsource(),
 				weights: [100],
-				display: "block",
+				display: "swap",
 				fallbacks: ["serif"],
 				cssVariable: "--font-playwrite-mx"
 			},
