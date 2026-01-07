@@ -59,14 +59,14 @@ onMount(() => {
 });
 </script>
 
-<button onclick={() => (menu = true)} class="sm:hidden"><Icon name="lucide--align-justify" /></button>
+<button onclick={() => (menu = true)} class="sm:hidden" aria-label="Open navigation menu"><Icon name="lucide--align-justify" /></button>
 
 <!-- svelte-ignore a11y_consider_explicit_label -->
 <button onclick={() => (menu = false)} class:pointer-events-none={!menu} class:bg-transparent={!menu} class="fixed top-0 start-0 w-screen h-screen pointer-events-auto bg-[#aaaaaa88] transition-[background-color] sm:hidden"></button>
 
 <nav bind:this={navigator} class:translate-x-full={!menu} class:rtl:-translate-x-full={!menu} class="fixed top-0 end-0 flex flex-col justify-between items-start gap-5 p-5 bg-background h-full sm:contents overflow-hidden transition-transform">
 	<header class="grid gap-5 text-secondary grid-rows-[repeat(5,1fr)] sm:grid-rows-none sm:grid-cols-[repeat(4,1fr)]">
-		<button onclick={() => (menu = false)} class="sm:hidden"><Icon name="lucide--x" /></button>
+		<button onclick={() => (menu = false)} class="sm:hidden" aria-label="Close navigation menu"><Icon name="lucide--x" /></button>
 
 		{#each routes as item}
 			{@const isActive = active(item.path, item.extra)}
