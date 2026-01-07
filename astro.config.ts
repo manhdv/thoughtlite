@@ -123,14 +123,16 @@ export default defineConfig({
 				provider: fontProviders.fontsource(),
 				weights: [400, 700],
 				fallbacks: ["serif"],
-				cssVariable: "--font-noto-serif"
+				cssVariable: "--font-noto-serif",
+				display: "swap"
 			},
 			{
 				name: "Noto Serif SC",
 				provider: fontProviders.fontsource(),
 				weights: [400, 700],
 				fallbacks: ["serif"],
-				cssVariable: "--font-noto-serif-sc"
+				cssVariable: "--font-noto-serif-sc",
+				display: "swap"
 			},
 			{
 				name: "Playwrite MX",
@@ -145,7 +147,8 @@ export default defineConfig({
 				provider: fontProviders.fontsource(),
 				weights: [400, 600],
 				fallbacks: ["system-ui", "sans-serif"],
-				cssVariable: "--font-be-vietnam-pro"
+				cssVariable: "--font-be-vietnam-pro",
+				display: "swap"
 			}
 		]
 	}
