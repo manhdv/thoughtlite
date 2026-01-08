@@ -12,7 +12,7 @@ top: 1
 
 - **TWRR:** ~**26%**
 - **IRR:** ~**31%**
-- **Lãi tuyệt đối:** ~**40 triệu**
+- **Lãi tuyệt đối:** ~**15%**
 - **Max drawdown:** ~**17%**
 - **Danh mục:** boring, phòng thủ, sống sót tốt hơn cái tôi
 
@@ -30,8 +30,8 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 - **IRR ~31%**  
   DCA đúng nhịp thị trường điều chỉnh → tiền vào lúc giá thấp, không phải lúc hưng phấn.
 
-- **Lợi nhuận tuyệt đối:** ~**40 triệu**  
-  Tiền thật. Không phải % trên giấy.
+- **Lợi nhuận tuyệt đối:** ~**15%**  
+  Lợi nhuận tuyệt đối nhỏ do vốn vào dàn trải.
 
 
 ## 2. Rủi ro & tâm lý
@@ -50,12 +50,14 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 
 - **VNDIAMOND ETF**  
   Nếu chỉ mua mỗi thằng này thì 2025 còn ngon hơn. Bài học nhớ đời.
-- **FPT / BWE / BMP / DRL**  
+- **FPT / BWE / BMP**  
   Doanh nghiệp thật, dòng tiền thật, không cần kể chuyện.
+- **US stocks**  
+  Lãi đậm trên 50% nhưng tỉ trọng nhỏ.
 
 ### Làm chưa tốt
 
-- **Thủy điện** (SHP, VPD, CHP…)  
+- **Thủy điện** (VPD, DRL…)  
   Chậm. Rất chậm. Đúng kiểu “ông cụ”.
 
 ## 4. Những gì KHÔNG làm (và tự hào vì thế)
