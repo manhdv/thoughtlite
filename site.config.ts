@@ -8,7 +8,7 @@ const config = siteConfig({
 		email: "hi@your.mail",
 		link: "https://thoughtlite.com"
 	},
-	description: "Trang web đầu tư cá nhân.",
+	description: "Lưu trữ tạm thời các suy nghĩ cá nhân.",
 	copyright: {
 		type: "CC BY-NC-ND 4.0",
 		year: "2025"

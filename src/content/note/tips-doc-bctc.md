@@ -3,7 +3,7 @@ title: "Tips đọc báo cáo tài chính"
 timestamp: 2026-01-06 11:55:00+00:00
 description: "Tips đọc báo cáo tài chính dành cho người lười."
 excerpt: "Bỏ lợi nhuận sang một bên và soi thẳng dòng tiền, tồn kho, phải thu để biết doanh nghiệp khỏe thật hay đang hóa trang."
-tags: ["BCTC", "kinh nghiệm"]
+tags: ["bctc", "kinh nghiệm"]
 series: Đầu tư
 toc: true
 ---
