@@ -1,6 +1,6 @@
 ---
 title: "Trekking Tà Chì Nhù"
-timestamp: 2025-23-09 16:53:00+07:00
+timestamp: 2025-09-23 16:53:00+07:00
 description: "Trekking Tà Chì Nhù mùa hoa Chi Pâu."
 tags: ["trekking"]
 series: Trekking
