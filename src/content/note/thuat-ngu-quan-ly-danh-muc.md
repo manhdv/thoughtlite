@@ -8,7 +8,7 @@ series: Đầu tư
 toc: true
 ---
 
-## 1. **IRR (Internal Rate of Return)**  
+## 1. IRR (Internal Rate of Return)
 Tỷ suất hoàn vốn nội bộ — hay nói đơn giản là **mức tăng trưởng của dòng tiền bạn ném vào danh mục**, có tính đến thời điểm nạp tiền.
 
 - **Ý nghĩa:** đo hiệu quả dựa trên *dòng tiền thực tế* vào/ra.  
@@ -20,7 +20,7 @@ Tỷ suất hoàn vốn nội bộ — hay nói đơn giản là **mức tăng t
 
 ---
 
-## 2. **TWR / TWRR (Time-Weighted Rate of Return)**  
+## 2. TWR / TWRR (Time-Weighted Rate of Return)
 Tỷ suất lợi nhuận theo thời gian — phiên bản “đo hiệu quả thuần túy của danh mục”, **không cho bạn lấy lý do vì nạp tiền sai thời điểm**.
 
 - **Ý nghĩa:** loại bỏ ảnh hưởng từ dòng tiền vào/ra, chỉ đo hiệu quả tăng trưởng của tài sản.  
@@ -32,40 +32,40 @@ Tỷ suất lợi nhuận theo thời gian — phiên bản “đo hiệu quả 
 
 ---
 
-## 3. **MWR (Money-Weighted Return)**  
+## 3. MWR (Money-Weighted Return)
 Giống IRR. Hai thằng gần như một, chỉ khác tên gọi tùy tài liệu.  
 Nói vậy để bạn đỡ bị hù.
 
 ---
 
-## 4. **XIRR**  
+## 4. XIRR
 Phiên bản IRR dành cho dòng tiền **không đều ngày** — ví dụ: bạn nạp ngày 4, ngày 17, rút ngày 23… Excel dùng XIRR để tính.
 
 ---
 
-## 5. **NAV (Net Asset Value)**  
+## 5. NAV (Net Asset Value)
 Giá trị tài sản ròng của danh mục/quỹ.  
 Dùng để theo dõi ETF hoặc quỹ chủ động.
 
 ---
 
-## 6. **Cost Basis (Giá vốn)**  
+## 6. Cost Basis (Giá vốn)
 Số tiền bạn đã bỏ vào trung bình.  
 DCA nhiều năm ⇒ cost basis đẹp hoặc thảm hại tùy duyên.
 
 ---
 
-## 7. **MTD / YTD (Month-to-Date / Year-to-Date)**  
+## 7. MTD / YTD (Month-to-Date / Year-to-Date)
 Lợi nhuận tính từ đầu tháng / đầu năm tới hiện tại.
 
 ---
 
-## 7. **Standard Deviation (Độ lệch chuẩn)**
+## 7. Standard Deviation (Độ lệch chuẩn)
 Cách tính volatility phổ thông. Cao nghĩa là lợi nhuận lúc cao chót vót, lúc tụt như tụt mood.
 
 ---
 
-## 8. **Max Drawdown (MDD)**
+## 8. Max Drawdown (MDD)
 Cú rơi sâu nhất của danh mục từ đỉnh xuống đáy.  
 Nó đo **nỗi đau tối đa** mà bạn từng chịu.
 
@@ -77,7 +77,7 @@ Nó đo **nỗi đau tối đa** mà bạn từng chịu.
 
 ---
 
-## 9. **Calmar Ratio**
+## 9. Calmar Ratio
 `Lợi nhuận năm / Max Drawdown`  
 Dùng để xem lợi nhuận có xứng đáng với mức đau không.  
 Cao ⇒ ratio đẹp.  
@@ -85,7 +85,7 @@ Thấp ⇒ danh mục trade như phê thuốc.
 
 ---
 
-## 10. **Sharpe Ratio**
+## 10. Sharpe Ratio
 `(Lợi nhuận – Lãi suất phi rủi ro) / Độ biến động`
 
 Nó đo xem lợi nhuận có **xứng đáng với rủi ro bạn chịu** không.
@@ -98,7 +98,7 @@ Nhược điểm: Sharpe phạt cả biến động **tăng** và **giảm** nh�
 
 ---
 
-## 11. **Sortino Ratio**
+## 11. Sortino Ratio
 Sharpe Ratio nhưng **không phạt biến động tăng**, chỉ phạt biến động giảm (downside deviation).  
 Tức là đo rủi ro *xấu* thật sự.
 
@@ -107,7 +107,7 @@ Sortino thấp mà Sharpe cao ⇒ danh mục của bạn tăng giảm thất th�
 
 ---
 
-## 12. **Semi-Variance**
+## 12. Semi-Variance
 Đo biến động **chỉ tính những tháng lỗ**.  
 Rất hữu ích để biết danh mục có tệ thật hay chỉ thỉnh thoảng nhảy múa cho vui.
 
@@ -115,7 +115,7 @@ Rất hữu ích để biết danh mục có tệ thật hay chỉ thỉnh tho�
 
 ---
 
-## 13. **Beta**
+## 13. Beta
 Đo danh mục chạy theo thị trường mạnh cỡ nào.
 
 - Beta = 1 ⇒ chạy ngang thị trường  
@@ -125,13 +125,13 @@ Rất hữu ích để biết danh mục có tệ thật hay chỉ thỉnh tho�
 
 ---
 
-## 14. **Alpha**
+## 14. Alpha
 Lợi nhuận vượt benchmark (tính theo risk-adjusted).  
 Nhiều người khoe alpha thực ra đang khoe... may mắn.
 
 ---
 
-## 15. **Correlation (Tương quan)**
+## 15. Correlation (Tương quan)
 Đo các tài sản trong danh mục “đi chung” hay “chia tay”.
 
 - 1.0 ⇒ dính như keo  
@@ -142,20 +142,20 @@ Dùng để xem danh mục có thực sự đa dạng hóa hay chỉ đa dạng 
 
 ---
 
-## 16. **Tracking Error**
+## 16. Tracking Error
 Đo xem danh mục lệch bao xa so với benchmark.  
 Nếu bạn claim “đánh bại VNIndex”, tracking error thấp mà lợi nhuận thấp… thì bạn chẳng đánh bại gì cả.
 
 ---
 
-## 17. **R-squared**
+## 17. R-squared
 Đo xem lợi nhuận danh mục có bao nhiêu % đến từ việc chạy theo thị trường.  
 R² cao: danh mục chỉ là index clone.  
 R² thấp: danh mục có cá tính — tốt hay ngu tùy bro.
 
 ---
 
-# Kết  
+# Kết
 Nhớ đơn giản thế này:
 
 - **IRR/MWR = đo hiệu quả đầu tư có tính đến bạn nạp rút tiền lúc nào.**  

@@ -76,22 +76,22 @@ Dấu hiệu mô hình kinh doanh kém hiệu quả.
 ---
 
 ## 10. Mấy chiêu che giấu lỗ thường gặp
-### – Đẩy doanh thu ảo cuối kỳ  
+### – Đẩy doanh thu ảo cuối kỳ
 Đẩy hàng sang đại lý để ghi nhận doanh thu.
 
-### – Kéo dài thời gian khấu hao  
+### – Kéo dài thời gian khấu hao
 Khấu hao ít lại → lợi nhuận đẹp hơn.
 
-### – Treo “dự án dở dang” vô hạn  
+### – Treo “dự án dở dang” vô hạn
 Đặc sản BĐS: không chịu kết chuyển chi phí.
 
-### – Tái phân loại nợ  
+### – Tái phân loại nợ
 Biến nợ ngắn hạn thành dài hạn để nhìn “đỡ nghẹt thở”.
 
-### – Lợi nhuận khác  
+### – Lợi nhuận khác
 Bán tài sản để che phần lõi đang tệ.
 
-### – Hợp nhất công ty con kiểu kỳ quặc  
+### – Hợp nhất công ty con kiểu kỳ quặc
 Vốn hóa chi phí, đẩy lợi thế thương mại, vài năm sau nổ bom.
 
 ---

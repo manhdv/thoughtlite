@@ -57,8 +57,6 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 
 - **Thủy điện** (SHP, VPD, CHP…)  
   Chậm. Rất chậm. Đúng kiểu “ông cụ”.
-- **US stocks nhỏ lẻ**  
-  Lãi thì có, nhưng **không đáng công theo dõi** so với ETF + big tech.
 
 ## 4. Những gì KHÔNG làm (và tự hào vì thế)
 
