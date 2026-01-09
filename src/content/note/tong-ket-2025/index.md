@@ -18,7 +18,7 @@ top: 1
 
 Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông minh_.
 
-![Portfolio Performance 2025](Screenshot_20260103_102235.jpg)
+![Portfolio Performance 2025](Screenshot_20260109_203624.png)
 ## 1. Hiệu suất tổng thể
 
 - **Time-weighted return (TWRR): ~26%**  
