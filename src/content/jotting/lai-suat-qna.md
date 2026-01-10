@@ -1,6 +1,6 @@
 ---
 title: Vài câu hỏi liên quan đến lãi suất
-timestamp: 2025-01-25 09:14:00+00:00
+timestamp: 2026-01-10 09:14:00+00:00
 series: Đầu tư
 tags: ["lãi suất"]
 description: Mấy câu hỏi tưởng đơn giản nhưng nhiều người cố tình hiểu sai về lãi suất.
