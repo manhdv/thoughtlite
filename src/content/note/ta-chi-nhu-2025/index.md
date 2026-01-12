@@ -31,7 +31,7 @@ Nắng bắt đầu làm mọi người xuống sức nhanh hơn, một vài ng�
 
 Leo 1 đoạn đến lán nghỉ đầu tiên thì mới nhận ra mình không mang tiền mặt, chuyển khoản thì không có sóng, muốn mua cốc nước đá cũng không được, đành uống nước lọc nghỉ chân một lúc và đi tiếp. Vẫn là đường đất nhưng dốc hơn, được cái nhiều cây nên khá chill. Đi đến gần 12h thì đến một khoảng rừng thưa dựng lán nghỉ trưa. Lại 1 lần nữa nhớ lại mình không mang tiền mua đá và nước ngọt, đành uống ké, khổ, đi chơi mà áp lực tiền bạc vẫn không tha.
 
-Căng da bụng chùng da mắt, ăn xong lại mệt nên chỉ muốn nằm, nhìn con đường nắng tiếp theo không muốn đi chút nào.
+Sau nghỉ trưa thì bắt đầu đi tiếp, trời nắng to, lại mới ăn no nên di chuyển khá mệt. Cũng may đi được tầm 30 phút thì cơ thể quen dần. Lúc này đoàn người đã giãn ra nên không còn thấy đông người nữa. Càng lên cao cây cối càng thưa dần, nhiệt độ cũng giảm do gần mây. Đường không dốc nhưng dài và vòng qua các sườn đồi, vượt qua sườn đồi này lại nhìn thấy sườn đồi khác, không biết khi nào đến đích.
 
 ## 5. Hoa Chi Pâu
 ## 5. Lên đỉnh và xuống núi
