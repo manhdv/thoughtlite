@@ -1,5 +1,5 @@
 ---
-title: 'Chiến thuật phân bổ danh mục DCA (tài liệu tham khảo, dùng dài hạn)'
+title: 'Chiến thuật phân bổ danh mục DCA'
 description: 'Tài liệu này mô tả một khung phân bổ tài sản mang tính hệ thống, tập trung vào kỷ luật thực hiện và thời gian nắm giữ, không nhằm dự đoán biến động ngắn hạn.'
 timestamp: 2026-01-13 12:22:00+07:00
 series: Đầu tư
