@@ -5,7 +5,7 @@ timestamp: 2026-01-06 11:55:00+00:00
 series: Đầu tư
 tags: ["tổng kết"]
 toc: true
-top: 1
+top: 2
 ---
 
 ## TL;DR
@@ -19,6 +19,9 @@ top: 1
 Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông minh_.
 
 ![Portfolio Performance 2025](Screenshot_20260109_203624.png)
+
+---
+
 ## 1. Hiệu suất tổng thể
 
 - **Time-weighted return (TWRR): ~26%**  
@@ -33,6 +36,7 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 - **Lợi nhuận tuyệt đối:** ~**15%**  
   Lợi nhuận tuyệt đối nhỏ do vốn vào dàn trải.
 
+---
 
 ## 2. Rủi ro & tâm lý
 
@@ -43,6 +47,8 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
   - Không hoảng loạn đọc tin tức vớ vẩn
 
 => Drawdown mà không làm gì ngu thì **không gọi là rủi ro**, chỉ là _noise_.
+
+---
 
 ## 3. Danh mục – thắng thua rõ ràng
 
@@ -60,6 +66,8 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 - **Thủy điện** (VPD, DRL…)  
   Chậm. Rất chậm. Đúng kiểu “ông cụ”.
 
+---
+
 ## 4. Những gì KHÔNG làm (và tự hào vì thế)
 
 - Không trading
@@ -71,6 +79,7 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 
 > _Đừng làm gì cũng là một quyết định đầu tư._
 
+---
 
 ## 5. Bài học rút ra
 
@@ -79,6 +88,7 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 3. So sánh với index để học, **không phải để tự hành hạ**
 4. Đầu tư dài hạn là bài test… _chịu đựng sự nhàm chán_
 
+---
 
 ## 6. Kế hoạch 2026 (ngắn gọn, không mơ mộng)
 
@@ -87,7 +97,7 @@ Không phải năm khoe khoang. Là năm chứng minh: _không ngu_ > _thông mi
 - Không thêm cổ phiếu “cho vui”
 - Tăng tiền nạp đều → _để thời gian làm việc hộ_
 
-
+---
 ## Kết
 
 2025 không phải năm tôi thông minh hơn thị trường.  
