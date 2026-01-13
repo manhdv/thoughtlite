@@ -5,6 +5,7 @@ description: "Trekking Tà Chì Nhù mùa hoa Chi Pâu."
 tags: ["trekking"]
 series: Trekking
 toc: true
+draft: true
 ---
 
 ## 1. Xuất phát từ Hà Nội
