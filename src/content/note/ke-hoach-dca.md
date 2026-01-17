@@ -1,6 +1,6 @@
 ---
-title: "Kế hoạch DCA 20 năm (13.5% CAGR, 400 triệu/1 năm)"
-description: "Khung DCA 20 năm, plan vs reality."
+title: "Kế hoạch DCA 13.5% CAGR, 400 triệu/1 năm"
+description: "Khung DCA, plan vs reality."
 timestamp: 2026-01-17 13:03:00+07:00
 series: Đầu tư
 tags: ["kế hoạch"]
@@ -21,7 +21,7 @@ top: 1
     return;
   }
 
-  const YEARS = 20;
+  const YEARS = 10;
 
   const labels = Array.from({ length: YEARS }, (_, i) => `Năm ${i + 1}`);
 
@@ -29,11 +29,13 @@ top: 1
     400,854,1369,1954,2618,
     3372,4228,5200,6303,7555,
     8976,10589,12420,14498,16857,
-    19535,22575,26025,29941,34386
+    19535,22575,26025,29941,34386,
+    39431,45157,51657,59035,67410
   ].slice(0, YEARS);
 
   const actual = [
     260,null,null,null,null,
+    null,null,null,null,null,
     null,null,null,null,null,
     null,null,null,null,null,
     null,null,null,null,null
@@ -41,6 +43,7 @@ top: 1
 
   const contributed = [
     220,null,null,null,null,
+    null,null,null,null,null,
     null,null,null,null,null,
     null,null,null,null,null,
     null,null,null,null,null
