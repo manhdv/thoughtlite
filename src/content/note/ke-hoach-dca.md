@@ -14,6 +14,7 @@ top: 1
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <script>
+    {
   const years = Array.from({ length: 25 }, (_, i) => `Năm ${i + 1}`);
 
   const planned = [
@@ -39,7 +40,7 @@ top: 1
     null,null,null,null,null,
     null,null,null,null,null
   ];
-window.addEventListener("load", () => {
+
   new Chart(document.getElementById("moneyChart"), {
     data: {
       labels: years,
@@ -86,5 +87,6 @@ window.addEventListener("load", () => {
         }
       }
     }
-  })});
+  });
+}
 </script>
