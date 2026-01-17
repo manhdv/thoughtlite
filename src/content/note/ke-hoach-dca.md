@@ -39,7 +39,7 @@ top: 1
     null,null,null,null,null,
     null,null,null,null,null
   ];
-
+window.addEventListener("load", () => {
   new Chart(document.getElementById("moneyChart"), {
     data: {
       labels: years,
@@ -86,5 +86,5 @@ top: 1
         }
       }
     }
-  });
+  })});
 </script>
