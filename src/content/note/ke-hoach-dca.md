@@ -58,7 +58,7 @@ top: 1
       datasets: [
         {
           type: "line",
-          label: "Total Contributed",
+          label: "Tiền vốn",
           data: contributed,
           borderColor: "#fc0097",
           borderWidth: 2,
@@ -67,7 +67,7 @@ top: 1
         },
         {
           type: "line",
-          label: "Planned (13.5%)",
+          label: "Kế hoạch (13.5%)",
           data: planned,
           borderColor: "#2563eb",
           borderDash: [6, 4],
@@ -76,7 +76,7 @@ top: 1
         },
         {
           type: "bar",
-          label: "Actual",
+          label: "Thực tế",
           data: actual,
           backgroundColor: "#22c55e",
           borderRadius: 4
