@@ -4,7 +4,7 @@ timestamp: 2026-01-22 11:53:00+07:00
 description: "Chính xác các bước để package phần mềm portfolio performance thành debian package."
 tags: ["debian", "linux"]
 series: Linux
-draft: false
+draft: true
 toc: true
 ---
 
