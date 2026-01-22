@@ -119,31 +119,25 @@
 	h4,
 	h5,
 	h6 {
-		font-weight: bold;
 	}
 
 	h1 {
-		font-size: 2.25rem;
+		font-size: 1.9rem;
 	}
-
 	h2 {
-		font-size: 1.75rem;
+		font-size: 1.45rem;
 	}
-
 	h3 {
-		font-size: 1.5rem;
+		font-size: 1.2rem;
 	}
-
 	h4 {
-		font-size: 1.25rem;
+		font-size: 1.05rem;
 	}
-
 	h5 {
-		font-size: 1.125rem;
-	}
-
-	h6 {
 		font-size: 1rem;
+	}
+	h6 {
+		font-size: 0.95rem;
 	}
 
 	a {

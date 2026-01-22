@@ -46,7 +46,7 @@ headings.forEach(heading => {
 <ul class="flex flex-col text-base list-none">
 	{
 		headings.map((heading: Heading) => (
-			<li id={`indicator-${heading.slug}`} class="group relative flex items-stretch h-6 [&.indicate>a]:font-bold [&.indicate>a]:text-primary">
+			<li id={`indicator-${heading.slug}`} class="group relative flex items-stretch h-6 [&.indicate>a]:font-medium [&.indicate>a]:text-primary">
 				<div class="flex select-none" aria-hidden="true">
 					{heading.lines?.map(line => (
 						<div class="w-4 relative flex justify-center">{line && <span class="absolute top-0 bottom-0 border-s border-remark" />}</div>
@@ -60,7 +60,7 @@ headings.forEach(heading => {
 					)}
 				</div>
 
-				<a href={`#${heading.slug}`} title={heading.text} class="grow min-w-0 inline-flex items-center ps-1 text-weak hover:font-bold hover:text-primary transition-[color,font-weight]">
+				<a href={`#${heading.slug}`} title={heading.text} class="grow min-w-0 inline-flex items-center ps-1 text-weak hover:text-primary transition-[color,font-weight]">
 					<span class="truncate">{heading.text}</span>
 				</a>
 			</li>
