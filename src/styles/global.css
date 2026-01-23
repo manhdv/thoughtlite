@@ -49,7 +49,7 @@
 
 /* Language-specific fonts */
 :lang(vi) {
-	--font-serif: var(--font-be-vietnam-pro);
+	--font-serif: var(--font-ibm-plex-sans);
 }
 
 :lang(ja) {
@@ -67,7 +67,7 @@
 		margin: 0;
 		padding: 0;
 		box-sizing: border-box;
-		font-family: inherit;
+		font-family: unset;
 		user-select: none;
 		-webkit-tap-highlight-color: transparent;
 	}
@@ -228,7 +228,7 @@
 	--color-selection: var(--selection-color);
 
 	--font-serif: var(--font-noto-serif);
-	--font-mono: var(--font-maple-mono-nf-cn);
+	--font-mono: var(--font-ibm-plex-mono);
 	--font-cursive: var(--font-playwrite-mx);
 
 	@keyframes shaky {

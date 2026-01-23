@@ -5,7 +5,7 @@ const { locale, title, subtitle, description, author, article } = Astro.props;
 
 const mainFonts: Record<string, CssVariable> = {
 	en: "--font-noto-serif",
-	vi: "--font-be-vietnam-pro"
+	vi: "--font-ibm-plex-sans"
 };
 
 const localedMainFont = mainFonts[locale];
@@ -43,7 +43,8 @@ const localedMainFont = mainFonts[locale];
 
 		<Font cssVariable="--font-playwrite-mx" />
 		<Font cssVariable="--font-noto-serif" />
-		<Font cssVariable="--font-be-vietnam-pro" />
+		<Font cssVariable="--font-ibm-plex-mono" />
+		<Font cssVariable="--font-ibm-plex-sans" />
 		<Font cssVariable={localedMainFont} />
 
 		<script is:inline>

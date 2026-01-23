@@ -120,7 +120,7 @@ export default defineConfig({
 		fonts: [
 			{
 				name: "Noto Serif",
-				provider: fontProviders.fontsource(),
+				provider: fontProviders.google(),
 				weights: [400, 700],
 				fallbacks: ["serif"],
 				cssVariable: "--font-noto-serif",
@@ -128,7 +128,7 @@ export default defineConfig({
 			},
 			{
 				name: "Noto Serif SC",
-				provider: fontProviders.fontsource(),
+				provider: fontProviders.google(),
 				weights: [400, 700],
 				fallbacks: ["serif"],
 				cssVariable: "--font-noto-serif-sc",
@@ -136,18 +136,25 @@ export default defineConfig({
 			},
 			{
 				name: "Playwrite MX",
-				provider: fontProviders.fontsource(),
+				provider: fontProviders.google(),
 				weights: [100],
 				display: "swap",
 				fallbacks: ["serif"],
 				cssVariable: "--font-playwrite-mx"
 			},
 			{
-				name: "Be Vietnam Pro",
-				provider: fontProviders.fontsource(),
+				name: "IBM Plex Mono",
+				provider: fontProviders.google(),
+				display: "swap",
+				fallbacks: ["monospace"],
+				cssVariable: "--font-ibm-plex-mono"
+			},
+			{
+				name: "IBM Plex Sans",
+				provider: fontProviders.google(),
 				weights: [400, 600],
 				fallbacks: ["system-ui", "sans-serif"],
-				cssVariable: "--font-be-vietnam-pro",
+				cssVariable: "--font-ibm-plex-sans",
 				display: "swap"
 			}
 		]
