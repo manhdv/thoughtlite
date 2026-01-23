@@ -1,13 +1,13 @@
 ---
-title: "Tool đánh giá Return – Risk – Giá"
+title: "Tool đánh giá Return – Risk"
 description: "Cách đánh giá cổ phiếu bằng expected return, drawdown và hurdle rate. Không timing, không FOMO."
 timestamp: 2026-01-23 12:37:00+07:00
 series: "Tools"
 tags: ["rủi ro", "hiệu quả"]
 draft: false
 ---
-
->Hướng dẫn: ["Phương pháp định giá"](/note/dinh-gia-risk-return)
+> [!TIP] Hướng dẫn sử dụng
+> ["Phương pháp định giá"](/note/danh-gia-risk-return)
 
 <style>
   .er-grid {
