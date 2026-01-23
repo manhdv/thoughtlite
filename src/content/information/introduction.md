@@ -1,6 +1,7 @@
 **ThoughtLite** là một góc nhỏ để tôi ghi lại suy nghĩ, ghi chú và những thứ đáng nhớ trong quá trình làm việc và sống.
 
 Nội dung ở đây chủ yếu xoay quanh:
+- đầu tư
 - công nghệ
 - lập trình
 - ghi chép cá nhân
