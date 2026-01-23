@@ -172,9 +172,6 @@ Required:
 Rf 5.3% + DD/5 ≈ 11–12%
 ```
 
-> [!TIP]
-> ["Tool đánh giá"](/jotting/expected-return)
-
 **Kết luận**:
 
 * Doanh nghiệp tốt
@@ -227,6 +224,9 @@ Không site nào biết:
 ```
 
 Nếu **không vượt** → bỏ qua, không tiếc.
+
+> [!TIP]
+> ["Tool đánh giá tự động"](/jotting/expected-return)
 
 ---
 
