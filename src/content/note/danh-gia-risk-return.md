@@ -2,7 +2,7 @@
 title: "Framework đánh giá đầu tư: Return – Risk – Giá"
 timestamp: 2026-01-23 11:19:00+07:00
 series: "Đầu tư"
-tags: ["đánh giá"]
+tags: ["đánh giá", "rủi ro"]
 description: "Mục tiêu duy nhất: biết vì sao mình mua, và khi nào không nên mua."
 toc: true
 draft: false
