@@ -6,8 +6,8 @@ series: "Tools"
 tags: ["rủi ro", "hiệu quả"]
 draft: false
 ---
-> [!TIP] Hướng dẫn sử dụng
-> ["Phương pháp định giá"](/note/danh-gia-risk-return)
+> [!TIP]
+> Muốn hiểu vì sao OPEN/CLOSED? →["đọc framework"](/note/danh-gia-risk-return)
 
 <style>
   .er-grid {
