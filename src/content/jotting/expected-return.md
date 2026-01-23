@@ -92,7 +92,8 @@ draft: false
 <div class="er-result"> <div class="er-box"> Expected return<br /> <strong><span id="expected">–</span>%</strong> </div> <div class="er-box"> Required return<br /> <strong><span id="required">–</span>%</strong> </div> <div class="er-box"> Gate<br /> <strong><span id="gate">–</span></strong> </div> </div>
 
 <script>
-  function calcExpectedReturn({ price, dividend, growthPct, peNow, peAvg }) {
+(() => {    
+    function calcExpectedReturn({ price, dividend, growthPct, peNow, peAvg }) {
     const dividendYield = (dividend / price) * 100;
     const deltaPE =
       (Math.pow(peAvg / peNow, 1 / 10) - 1) * 100;
@@ -148,6 +149,8 @@ draft: false
     gateEl.style.color = expected > required ? "green" : "red";
   }
 
+
   form.addEventListener("input", update);
   update();
+  })();
 </script>
