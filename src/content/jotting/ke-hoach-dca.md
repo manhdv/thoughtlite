@@ -5,7 +5,6 @@ timestamp: 2026-01-17 13:03:00+07:00
 series: Đầu tư
 tags: ["kế hoạch"]
 toc: false
-top: 1
 ---
 
 <div style="height:clamp(260px,42vh,520px);">

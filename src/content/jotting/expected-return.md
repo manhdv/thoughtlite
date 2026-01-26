@@ -9,6 +9,10 @@ draft: false
 > [!TIP]
 > Muốn hiểu vì sao OPEN/CLOSED? →["đọc framework"](/note/danh-gia-risk-return)
 
+
+> [!IMPORTANT]
+> Tool để đánh giá expected return của cổ phiếu, lúc nào có thể DCA, lúc nào không, không phải công cụ chọn cổ phiếu.
+
 <style>
   .er-grid {
     display: grid;
